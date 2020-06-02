@@ -7,3 +7,4 @@ Tutorials:
 2. https://www.toptal.com/linux/separation-anxiety-isolating-your-system-with-linux-namespaces
 3. http://ifeanyi.co/posts/linux-namespaces-part-1/
 4. Unix System Programming Using C++ by Terrence Chan
+5. [Liz Rice - Container Security-O'Reilly Media, Inc. (2020)](https://github.com/bhargavbhegde7/container_internals/blob/master/Liz%20Rice%20-%20Container%20Security-O'Reilly%20Media%2C%20Inc.%20(2020).pdf)
