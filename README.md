@@ -8,3 +8,4 @@ Tutorials:
 3. http://ifeanyi.co/posts/linux-namespaces-part-1/
 4. Unix System Programming Using C++ by Terrence Chan
 5. [Liz Rice - Container Security-O'Reilly Media, Inc. (2020)](https://github.com/bhargavbhegde7/container_internals/blob/master/Liz%20Rice%20-%20Container%20Security-O'Reilly%20Media%2C%20Inc.%20(2020).pdf)
+6. https://jvns.ca/blog/2020/04/27/new-zine-how-containers-work/
