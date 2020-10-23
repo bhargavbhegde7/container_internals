@@ -10,3 +10,5 @@ Tutorials:
 5. [Liz Rice - Container Security-O'Reilly Media, Inc. (2020)](https://github.com/bhargavbhegde7/container_internals/blob/master/Liz%20Rice%20-%20Container%20Security-O'Reilly%20Media%2C%20Inc.%20(2020).pdf)
 6. https://jvns.ca/blog/2020/04/27/new-zine-how-containers-work/
 7. https://jvns.ca/blog/2016/10/26/running-container-without-docker/
+8. https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016
+9. https://lwn.net/Articles/689856/
